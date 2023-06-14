@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "spotify-demo-43549",
+    "spotify-demo": "spotify-demo-43549",
+    "spotify": "spotify-demo-43549"
+  },
+  "targets": {},
+  "etags": {}
+}
