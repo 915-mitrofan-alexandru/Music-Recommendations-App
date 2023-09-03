@@ -263,4 +263,5 @@ app.*.symbols
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
 !.vscode/settings.json
-**/cloud_function_impl/serviceAccountKey.json
+licenta_mitrofan_alexandru/music_recommender_app/cloud_function_impl
+/serviceAccountKey.json
