@@ -10,7 +10,7 @@
 
 This application is built on Flutter, with Cloud Functions for the server side, and uses two recommender system algorithms in order to suggest music to the users on the platform. The user based algorithm uses the friends of the user in order to suggest similar music they might like. The item based algorithm uses Spotify audio features to calculate the similarity between songs and generate recommendations to the user.
 
-![image](https://github.com/915-mitrofan-alexandru/Music-Recommendations-App/assets/44554446/9a7db55e-5756-4d9a-89da-b60d56700dd9)
+<img src="https://github.com/915-mitrofan-alexandru/Music-Recommendations-App/assets/44554446/9a7db55e-5756-4d9a-89da-b60d56700dd9" width="500">
 
 ## Functionalities
 
@@ -34,7 +34,7 @@ friends have listened to and rated well, as well as by their chosen genres or by
 the time of day (if morning, more energising songs will be recommended).
 
 ## App Screenshots
+<img src="https://github.com/915-mitrofan-alexandru/Music-Recommendations-App/assets/44554446/0eccb3fd-1559-459d-8cd0-38fb6b765847" width="500">
+<img src="https://github.com/915-mitrofan-alexandru/Music-Recommendations-App/assets/44554446/4f4e3241-bc71-4a36-894b-de13011b9a33" width="500">
 
-![3screenwhite](https://github.com/915-mitrofan-alexandru/Music-Recommendations-App/assets/44554446/0eccb3fd-1559-459d-8cd0-38fb6b765847)
-![3screen](https://github.com/915-mitrofan-alexandru/Music-Recommendations-App/assets/44554446/ef73ec47-19cd-42ed-b925-3c0cde7dfee0)
 
